@@ -1,4 +1,4 @@
-package work.Task1;
+package com.studentaddressapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
