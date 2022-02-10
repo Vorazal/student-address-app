@@ -4,7 +4,7 @@ create table addresses
         primary key,
         country varchar(20) not null,
     city varchar(20) not null,
-    street varchar(30) not null,
+    street varchar(30) not null
 );
 
 create table students
@@ -17,5 +17,5 @@ create table students
     hobby varchar(30),
     address_id int not null,
     constraint student_address_address_id_fk
-        foreign key (address_id) references addresses (address_id),
+        foreign key (address_id) references addresses (address_id)
 );
