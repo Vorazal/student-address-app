@@ -17,16 +17,13 @@ public class Address {
 
     ////
 
-    @OneToOne
-    @JoinColumn(name = "country")
+    @Column(name = "country")
     private String country;
 
-    @OneToOne
-    @JoinColumn(name = "city")
+    @Column(name = "city")
     private String city;
 
-    @OneToOne
-    @JoinColumn(name = "street")
+    @Column(name = "street")
     private String street;
 
     public Address() {
