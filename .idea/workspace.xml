@@ -28,7 +28,6 @@
   <component name="ChangeListManager">
     <list default="true" id="29d9a7ee-2a82-4139-b35a-134f396e011e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/studentaddressapp/StudentAddressApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/studentaddressapp/StudentAddressApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644503872341</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="workspace.xml updated">
+      <created>1644585790408</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644585790408</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,7 +159,8 @@
     <MESSAGE value="test package renamed" />
     <MESSAGE value="Test class renamed" />
     <MESSAGE value="new branch push" />
-    <option name="LAST_COMMIT_MESSAGE" value="new branch push" />
+    <MESSAGE value="workspace.xml updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml updated" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1644503653348">
@@ -172,13 +179,21 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1644503653348" />
-    <state x="470" y="115" key="RollbackChangesDialog" timestamp="1644585384658">
+    <state x="470" y="115" key="RollbackChangesDialog" timestamp="1644586279873">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="470" y="115" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1644585384658" />
+    <state x="470" y="115" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1644586279873" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1644585846449">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1644585846449" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1644502655041">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1644502655041" />
+    <state x="480" y="201" key="git4idea.merge.GitPullDialog" timestamp="1644586197705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="480" y="201" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1644586197705" />
   </component>
 </project>
